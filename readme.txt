@@ -39,5 +39,16 @@ branch
             => git merge <bname>
 
 to add into file github 
-        
+        to connect local repository to remote repository 
+            git remote add <short name> <url>
+            git remote add origin https://github.com/JayBansod/github_tut.git
+            (these url is refered as origin)    
+        to see remote => git remote
+        to see remote from where we fetch or push => git remote -v
+        to change url => git <location name> set-url  <location> <url>
+                        git origin set-url origin <url>
+
+    push
+        git push <location> <bname>
+        git push origin master
         
