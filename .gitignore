@@ -1,0 +1,5 @@
+ignore all files present in all folder form where .gitignore present
+log.txt
+
+ignore of extension .xyz
+*.xyz
