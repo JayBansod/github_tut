@@ -7,5 +7,5 @@ commit in one line =>  git commit -m "<massage>"
         
 add to stage area (single file)=> git add <file name>
 add to stage area (multi file)=> git add -A
-if we want restore our modified file => git checkout <file name>
+if we want restore our modified file to last commit=> git checkout <file name> 
 
