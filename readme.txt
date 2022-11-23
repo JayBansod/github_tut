@@ -34,5 +34,6 @@ branch
         to create new branch => git branch <bname>
         to jump on new branch => git cheackout <bname>
                                             
-         
+    mearge two branch 
+            => git mearge <bname>
         
