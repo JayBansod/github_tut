@@ -29,7 +29,10 @@ to remove file from commit (remove file from staging area)=> git rm --cached
 .gitignore 
     create get ignore file => touch .gitignore
     
-
+branch
+        to see all branch => git branch
+        to create new branch => git branch <bname>
+        to jump on new branch => git cheackout <bname>
                                             
          
         
