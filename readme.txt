@@ -9,7 +9,7 @@ add to stage area (single file)=> git add <file name>
 add to stage area (multi file)=> git add -A
 
 skip staging area and commit => git commit -a -m "<massage>"
-
+awdfa
 if we want restore our modified file to last commit (work only when we dont add file to staging area)=> git restore <file name> 
         if we want to restore all changes all file => git restore .
 to see log => git log
@@ -18,3 +18,7 @@ to show what we changed into file (work only when we dont add file to staging ar
                                     (nothing show if we add file in staging area bcoz 
                                         it compare file with the file present in staging area)
         if we wants to compare staging area with last commit =>git diff --staged
+
+create file => touch <hile name>
+to remove file from commit (delete file)=> git rm   
+         (remove file from staging area)=> git rm --catched
