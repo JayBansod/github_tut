@@ -37,4 +37,7 @@ branch
                                             
     mearge two branch 
             => git merge <bname>
+
+to add into file github 
+        
         
