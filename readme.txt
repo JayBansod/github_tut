@@ -33,6 +33,7 @@ branch
         to see all branch => git branch
         to create new branch => git branch <bname>
         to jump on new branch => git cheackout <bname>
+        to create new branch and junp to that branch =>git cheackout -b <bname>
                                             
     mearge two branch 
             => git mearge <bname>
