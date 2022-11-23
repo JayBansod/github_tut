@@ -36,5 +36,5 @@ branch
         to create new branch and junp to that branch =>git cheackout -b <bname>
                                             
     mearge two branch 
-            => git mearge <bname>
+            => git merge <bname>
         
